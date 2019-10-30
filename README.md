@@ -1,2 +1,2 @@
 # Pipeline-for-contamination
-pipeline for detecting three kinds pf contamination levels
+### pipeline for detecting three kinds of contamination levels
